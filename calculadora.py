@@ -77,3 +77,5 @@ while True:
     if continuar != 's':
         print('Programa encerrado.')
         break
+    else:
+        print(' ')
